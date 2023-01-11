@@ -19,20 +19,18 @@ a:hover {
 	background-color: #333333;
 }
 
-#header {
-	height:300px;
-	width:300px;
-	background-image:url('images/header.png');
-	background-repeat: no-repeat;
-	display: block;
-	margin-left: auto; 
-	margin-right: auto;
-}
+
 
 #nav {
 	text-align: center;
 	font-size: 13px;
 	font-weight: bold;
+	background-color
+	height:700px;
+	background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/White_flag_of_surrender.svg/800px-White_flag_of_surrender.svg.png');
+	display: block;
+	margin-left: auto; 
+	margin-right: auto;
 }
 
 .active {
@@ -65,7 +63,7 @@ img {
 
 </style>
 </head>
-<div id="header">&nbsp;</div>
+
 <div id="nav">
 <?php
 $menu_links = array("Home", "Schedule", "Stats", "Teams", "History", "Pictures", "Staff", "Scholarships", "Sponsors");
@@ -88,6 +86,8 @@ foreach ($menu_links as $link) {
 }
 ?>
 </div>
+
+<div id="header">&nbsp;</div>
 <br />
 <div id="content">
 <?php include("pages/" . $page . ".php"); ?>
