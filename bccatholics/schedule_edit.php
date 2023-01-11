@@ -51,7 +51,7 @@ $dat = fread($fh,filesize("$dataFile"));
 fclose($fh);
 eval($dat);
 for($x=1;$x<$games;$x++) {
-	if($x % 2) { $tablerowcolor = "#E1E1E1"; } else { $tablerowcolor = "#888888"; }
+	if($x % 2) { $tablerowcolor = "#E1E1E1"; } else { $tablerowcolor = "#FFFFFF"; }
 	echo '<tr bgcolor="' . $tablerowcolor . '">';
 	echo '<td width="20px">' . $x . '</td>';
 	$formid = $x . "_opt1"; datebox($formid);
