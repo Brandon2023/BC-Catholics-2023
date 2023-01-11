@@ -23,62 +23,62 @@
                 </style>
 
                 <div class="teams-ww">
-                    <img src="americano.jpg" alt="americano">
+                    <img src="Carney.webp" alt="Carney">
                     <h3>Carney</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="cappuccino.jpg" alt="cappuccino">
+                    <img src="Holy-Cross-High-School-logo.png" alt="cappuccino">
                     <h3>HC</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="latte.jpg" alt="latte">
+                    <img src="Immaculate.png" alt="latte">
                     <h3>Imm</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="macchiato.jpg" alt="macchiato">
+                    <img src="Little-Flower-Academy-logo.webp" alt="macchiato">
                     <h3>LFA</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="macchiato.jpg" alt="macchiato">
+                    <img src="Notre Dame.webp" alt="macchiato">
                     <h3>ND</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="macchiato.jpg" alt="macchiato">
+                    <img src="sjb_logo.gif" alt="macchiato">
                     <h3>SJB</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="macchiato.jpg" alt="macchiato">
+                    <img src="Saint Andrews.png" alt="macchiato">
                     <h3>St. Andrews</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="macchiato.jpg" alt="macchiato">
+                    <img src="St Ann's.jpg" alt="macchiato">
                     <h3>St. Anns</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="macchiato.jpg" alt="macchiato">
+                    <img src="St pats.png" alt="macchiato">
                     <h3>St. Pats</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="macchiato.jpg" alt="macchiato">
+                    <img src="sta.png" alt="macchiato">
                     <h3>STA</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="macchiato.jpg" alt="macchiato">
+                    <img src="st-thomas-moor.jpg" alt="macchiato">
                     <h3>STM</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="eee.png" alt="macchiato">
+                    <img src="VC.png" alt="macchiato">
                     <h3>VC</h3>
                 </div> 
             </section>
