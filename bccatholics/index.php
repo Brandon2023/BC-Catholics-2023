@@ -15,23 +15,23 @@ a, a:link, a:active, a:hover, a:visited {
 	color: #666666;
 }
 
-a:hover {
-	background-color: #333333;
-}
+
 
 
 
 #nav {
 	text-align: center;
-	font-size: 13px;
+	font-size: 20px;
 	font-weight: bold;
-	background-color
+	background-color:#0061FF; //dont delete this, it breaks everything //
 	height:1000px;
 	background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/White_flag_of_surrender.svg/800px-White_flag_of_surrender.svg.png');
 	display: block;
 	margin-left: auto; 
 	margin-right: auto;
 	padding:20px;
+	font-family: Century Gothic, sans-serif;
+
 }
 
 .active {
