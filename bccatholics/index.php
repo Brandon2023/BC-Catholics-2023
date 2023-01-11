@@ -78,6 +78,21 @@ img {
 	
 }
 
+
+#text{
+	text-align: center;
+	font-size: 70px;
+	font-weight: bold;
+	background-color
+	height:500px;
+	background: #000000;
+    opacity: 0.8;
+	padding:40px;
+	font-family: Century Gothic, sans-serif;
+
+	
+}
+
 </style>
 </head>
 
@@ -108,7 +123,7 @@ foreach ($menu_links as $link) {
 </div>
 
 <div id="header">&nbsp;</div>
-<div id="test"></div>
+<div id="test"><div id="text">BC CATHOLICS</div></div>
 <br />
 <div id="content">
 <?php include("pages/" . $page . ".php"); ?>
