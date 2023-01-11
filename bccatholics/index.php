@@ -43,9 +43,10 @@ a:hover {
 }
 
 #content {
-	margin: auto; 
-	overflow: auto;
-	width: 650px;
+	margin-left: auto; 
+	margin-right: auto; 
+	width: 500px;
+	height:1px;
 }
 
 a img {
@@ -124,7 +125,7 @@ foreach ($menu_links as $link) {
 
 <div id="header">&nbsp;</div>
 <div id="test"><div id="text">BC CATHOLICS</div></div>
-<br />
+
 <div id="content">
 <?php include("pages/" . $page . ".php"); ?>
 </div>
