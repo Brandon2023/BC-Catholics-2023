@@ -23,65 +23,73 @@
                 </style>
 
                 <div class="teams-ww">
-                    <img src="Carney.webp" alt="Carney">
+                    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Acrss_logo.jpg/203px-Acrss_logo.jpg" alt="Carney" width="90" height="90">
                     <h3>Carney</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="Holy-Cross-High-School-logo.png" alt="cappuccino">
+                    <img src="https://i.imgur.com/uDspjKm.png" alt="cappuccino"width="90" height="90">
                     <h3>HC</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="Immaculate.png" alt="latte">
+                    <img src="https://i.imgur.com/OWAMdad.png" alt="latte"width="90" height="90">
                     <h3>Imm</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="Little-Flower-Academy-logo.webp" alt="macchiato">
+                    <img src="https://bbk12e1-cdn.myschoolcdn.com/439/photo/2016/03/orig_photo381953_4266372.jpg" alt="macchiato" width="90" height="90">
                     <h3>LFA</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="Notre Dame.webp" alt="macchiato">
+                    <img src="https://elem.hcdsb.org/wp-content/uploads/2021/06/logo_hcdsb_FOS-ND_NotreDame.png" alt="macchiato width="90" height="90"">
                     <h3>ND</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="sjb_logo.gif" alt="macchiato">
+                    <img src="https://i.imgur.com/95kIqaU.gif" alt="macchiato"width="90" height="90">
                     <h3>SJB</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="Saint Andrews.png" alt="macchiato">
+                    <img src="https://i.imgur.com/wR933dR.png" alt="macchiato" width="90" height="90">
                     <h3>St. Andrews</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="St Ann's.jpg" alt="macchiato">
+                    <img src="https://i.imgur.com/lRCxczw.jpeg" alt="macchiato" width="90" height="90">
                     <h3>St. Anns</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="St pats.png" alt="macchiato">
+                    <img src="https://i.imgur.com/tzieb5M.png" alt="macchiato" width="90" height="90">
                     <h3>St. Pats</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="sta.png" alt="macchiato">
+                    <img src="https://i.imgur.com/vqfH8Gt.png" alt="macchiato" width="90" height="90">
                     <h3>STA</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="st-thomas-moor.jpg" alt="macchiato">
+                    <img src="https://i.imgur.com/lhfP1Ds.jpeg" alt="macchiato" width="90" height="90">
                     <h3>STM</h3>
                 </div> 
 
                 <div class="teams-ww">
-                    <img src="VC.png" alt="macchiato">
+                    <img src="https://i.imgur.com/DYGJFJr.png" alt="macchiato" width="90" height="90">
                     <h3>VC</h3>
                 </div> 
             </section>
         </div>
     </body>
 </html>
+
+
+
+<style>
+    .teams-ww{
+        font-family: “Bahnschrift SemiBold”, sans-serif;
+    }
+</style>
