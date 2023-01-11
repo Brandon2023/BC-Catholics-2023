@@ -23,14 +23,16 @@ a, a:link, a:active, a:hover, a:visited {
 	text-align: center;
 	font-size: 20px;
 	font-weight: bold;
-	background-color:#0061FF; //dont delete this, it breaks everything //
+	background-color:#000; //dont delete this, it breaks everything //
 	height:1000px;
-	background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/White_flag_of_surrender.svg/800px-White_flag_of_surrender.svg.png');
+	background-size:200px;
+	background-image:url('https://www.preaching.com/wp-content/uploads/2018/09/750px-x-400px-Preaching-Article-Image-13.png');
 	display: block;
 	margin-left: auto; 
 	margin-right: auto;
 	padding:20px;
 	font-family: Century Gothic, sans-serif;
+	background-repeat:no-repeat;
 
 }
 
@@ -67,17 +69,15 @@ img {
 #test{
 	background-color
 	height:20px;
-	background-image:url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b5b92a31001347.563c439d21c9b.jpg');
+	background-image:url('https://i.imgur.com/62G6rsA.png');
 	display: auto;
 	padding:200px;
 	background-repeat:no-repeat;
 	background-size: 100%;
-
-
-	
-	
 	
 }
+
+
 
 
 #text{
@@ -94,13 +94,13 @@ img {
 	
 }
 
-	
 #imgee{
 	text-align: center;
 
 }
 
-	
+
+
 </style>
 </head>
 
@@ -130,12 +130,12 @@ foreach ($menu_links as $link) {
 ?>
 </div>
 
+
 <div id="header">&nbsp;</div>
-<div id="test"><div id="text">BC CATHOLICS</div></div>
 <div id="test"><div id="text">BC CATHOLICS</div><div id="imgee"><img src="https://i.imgur.com/bdXY1xb.png" width="90" height="90">	</div></div>
 
 <div id="content">
 <?php include("pages/" . $page . ".php"); ?>
-	
 
 </div>
+
