@@ -74,5 +74,5 @@
 
         2020 was another fun and competitive tournament . Once again the Crusaders and the Irish made their way to the finals and it didn't disappoint with another nail biter of a game where Holy Cross won a close game over VC 62-61 . This marked the end of an illustrious 4 year career at the Catholics by Uyi Ologhola .The Senior girls finals pitted the defending champions from STA against STM . Cassie Pennalosa led her team along with great defensive play from Tatiania Hughes and the exciting play of the Gaspar sisters defeated STA 51-36.<br><br>       
 
-
+</p>
 </font>
