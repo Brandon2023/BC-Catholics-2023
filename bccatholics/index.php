@@ -94,6 +94,13 @@ img {
 	
 }
 
+	
+#imgee{
+	text-align: center;
+
+}
+
+	
 </style>
 </head>
 
@@ -125,7 +132,10 @@ foreach ($menu_links as $link) {
 
 <div id="header">&nbsp;</div>
 <div id="test"><div id="text">BC CATHOLICS</div></div>
+<div id="test"><div id="text">BC CATHOLICS</div><div id="imgee"><img src="https://i.imgur.com/bdXY1xb.png" width="90" height="90">	</div></div>
 
 <div id="content">
 <?php include("pages/" . $page . ".php"); ?>
+	
+
 </div>
