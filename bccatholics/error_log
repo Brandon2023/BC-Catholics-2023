@@ -1,0 +1,57 @@
+[09-Jan-2023 06:43:14 UTC] PHP Warning:  fopen(\NAS1\Home\Q\QTI225\data\catholics2010_schedule.txt): failed to open stream: No such file or directory in /home/hconlino/public_html/bccatholics/pages/schedule.php on line 8
+[09-Jan-2023 06:43:14 UTC] PHP Warning:  filesize(): stat failed for \NAS1\Home\Q\QTI225\data\catholics2010_schedule.txt in /home/hconlino/public_html/bccatholics/pages/schedule.php on line 9
+[09-Jan-2023 06:43:14 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/pages/schedule.php on line 9
+[09-Jan-2023 06:43:14 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/pages/schedule.php on line 10
+[09-Jan-2023 06:45:28 UTC] PHP Warning:  fopen(\NAS1\Home\Q\QTI225\data\catholics2010_schedule.txt): failed to open stream: No such file or directory in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 49
+[09-Jan-2023 06:45:28 UTC] PHP Warning:  filesize(): stat failed for \NAS1\Home\Q\QTI225\data\catholics2010_schedule.txt in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 50
+[09-Jan-2023 06:45:28 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 50
+[09-Jan-2023 06:45:28 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 51
+[09-Jan-2023 06:54:03 UTC] PHP Warning:  fopen(\NAS1\Home\Q\QTI225\data\catholics2010_schedule.txt): failed to open stream: No such file or directory in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 49
+[09-Jan-2023 06:54:03 UTC] PHP Warning:  filesize(): stat failed for \NAS1\Home\Q\QTI225\data\catholics2010_schedule.txt in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 50
+[09-Jan-2023 06:54:03 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 50
+[09-Jan-2023 06:54:03 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 51
+[09-Jan-2023 06:56:04 UTC] PHP Warning:  fopen(catholics2023_schedule.txt): failed to open stream: No such file or directory in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 49
+[09-Jan-2023 06:56:04 UTC] PHP Warning:  filesize(): stat failed for catholics2023_schedule.txt in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 50
+[09-Jan-2023 06:56:04 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 50
+[09-Jan-2023 06:56:04 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 51
+[09-Jan-2023 06:57:14 UTC] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 50
+[09-Jan-2023 06:59:11 UTC] PHP Warning:  fread(): Length parameter must be greater than 0 in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 50
+[09-Jan-2023 07:26:51 UTC] PHP Warning:  opendir(\NAS1\Home\Q\QTI225\www\catholics2010\stats): failed to open dir: No such file or directory in /home/hconlino/public_html/bccatholics/pages/stats.php on line 21
+[09-Jan-2023 07:26:51 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/pages/stats.php on line 24
+[09-Jan-2023 07:26:51 UTC] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/pages/stats.php on line 33
+[09-Jan-2023 20:20:23 UTC] PHP Warning:  opendir(\NAS1\Home\Q\QTI225\www\catholics2010\stats): failed to open dir: No such file or directory in /home/hconlino/public_html/bccatholics/pages/stats.php on line 21
+[09-Jan-2023 20:20:23 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/pages/stats.php on line 24
+[09-Jan-2023 20:20:23 UTC] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/pages/stats.php on line 33
+[10-Jan-2023 20:08:58 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 49
+[10-Jan-2023 20:08:58 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 50
+[10-Jan-2023 20:08:58 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 51
+[10-Jan-2023 20:09:42 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 49
+[10-Jan-2023 20:09:42 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 50
+[10-Jan-2023 20:09:42 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 51
+[10-Jan-2023 20:10:17 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 49
+[10-Jan-2023 20:10:17 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 50
+[10-Jan-2023 20:10:17 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 51
+[10-Jan-2023 20:10:22 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 49
+[10-Jan-2023 20:10:22 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 50
+[10-Jan-2023 20:10:22 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 51
+[10-Jan-2023 20:11:09 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 49
+[10-Jan-2023 20:11:09 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 50
+[10-Jan-2023 20:11:09 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 51
+[10-Jan-2023 20:12:35 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 49
+[10-Jan-2023 20:12:35 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 50
+[10-Jan-2023 20:12:35 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 51
+[10-Jan-2023 20:14:51 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 49
+[10-Jan-2023 20:14:51 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 50
+[10-Jan-2023 20:14:51 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/schedule_edit.php on line 51
+[10-Jan-2023 20:33:20 UTC] PHP Warning:  fopen(): Filename cannot be empty in /home/hconlino/public_html/bccatholics/pages/schedule.php on line 8
+[10-Jan-2023 20:33:20 UTC] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/pages/schedule.php on line 9
+[10-Jan-2023 20:33:20 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/pages/schedule.php on line 10
+[10-Jan-2023 20:36:13 UTC] PHP Warning:  opendir(\NAS1\Home\Q\QTI225\www\catholics2010\stats): failed to open dir: No such file or directory in /home/hconlino/public_html/bccatholics/pages/stats.php on line 21
+[10-Jan-2023 20:36:13 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/pages/stats.php on line 24
+[10-Jan-2023 20:36:13 UTC] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/pages/stats.php on line 33
+[10-Jan-2023 20:51:49 UTC] PHP Warning:  opendir(\NAS1\Home\Q\QTI225\www\catholics2010\stats): failed to open dir: No such file or directory in /home/hconlino/public_html/bccatholics/pages/stats.php on line 21
+[10-Jan-2023 20:51:49 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/pages/stats.php on line 24
+[10-Jan-2023 20:51:49 UTC] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/pages/stats.php on line 33
+[11-Jan-2023 00:18:33 UTC] PHP Warning:  opendir(\NAS1\Home\Q\QTI225\www\catholics2010\stats): failed to open dir: No such file or directory in /home/hconlino/public_html/bccatholics/pages/stats.php on line 21
+[11-Jan-2023 00:18:33 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/pages/stats.php on line 24
+[11-Jan-2023 00:18:33 UTC] PHP Warning:  closedir() expects parameter 1 to be resource, boolean given in /home/hconlino/public_html/bccatholics/pages/stats.php on line 33
