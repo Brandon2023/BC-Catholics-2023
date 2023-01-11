@@ -26,11 +26,12 @@ a:hover {
 	font-size: 13px;
 	font-weight: bold;
 	background-color
-	height:700px;
+	height:1000px;
 	background-image:url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/White_flag_of_surrender.svg/800px-White_flag_of_surrender.svg.png');
 	display: block;
 	margin-left: auto; 
 	margin-right: auto;
+	padding:20px;
 }
 
 .active {
@@ -61,10 +62,29 @@ img {
 	border: 0;
 }
 
+
+#test{
+	background-color
+	height:20px;
+	background-image:url('https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b5b92a31001347.563c439d21c9b.jpg');
+	display: auto;
+	padding:200px;
+	background-repeat:no-repeat;
+	background-size: 100%;
+
+
+	
+	
+	
+}
+
 </style>
 </head>
 
 <div id="nav">
+
+
+
 <?php
 $menu_links = array("Home", "Schedule", "Stats", "Teams", "History", "Pictures", "Staff", "Scholarships", "Sponsors");
 
@@ -88,6 +108,7 @@ foreach ($menu_links as $link) {
 </div>
 
 <div id="header">&nbsp;</div>
+<div id="test"></div>
 <br />
 <div id="content">
 <?php include("pages/" . $page . ".php"); ?>
